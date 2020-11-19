@@ -1,0 +1,3 @@
+/media/gaur/New Volume/Padhai/Sem-7/Algo OS/Project/Team1/build/CMakeFiles/rebuild_cache.dir
+/media/gaur/New Volume/Padhai/Sem-7/Algo OS/Project/Team1/build/CMakeFiles/monitor.dir
+/media/gaur/New Volume/Padhai/Sem-7/Algo OS/Project/Team1/build/CMakeFiles/edit_cache.dir
